@@ -1,0 +1,27 @@
+.header{
+				background: #343434;
+				width: 100px;
+				height: 130px;
+
+				
+			}
+
+			.picture{
+				margin-left: 95px;
+			 	margin-top: 20px;
+
+			}
+			.menu{
+				background: #343434;
+				width: 100%;
+				height: 20px;
+
+
+
+			}
+			.movies{
+				background: red;
+				width: 100%
+				height: 40px;
+				margin-top: 70px ;
+			}

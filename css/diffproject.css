@@ -1,0 +1,100 @@
+*{
+			margin:0;
+			padding: 0;
+		}
+	.promo_banner{
+	height: 30px;
+	width: 100%;
+	background: black;
+}
+.promo_banner_text{
+	color: white;
+	margin-left: 25px;
+	line-height: 25px;
+
+}
+.container{
+	height: 75px;
+	width: 100%;
+	background: white;
+}
+.container_logo{
+	height:46px ;
+	width: 150px ;
+	    margin-left: 198px;
+    margin-top: 19px;
+
+}
+.menu_box {
+    margin-left: 767px;
+    margin-top: -38px;
+}
+.menu_name{
+	margin: 10px;
+	text-decoration: none;
+	color: black;
+}
+.menu_name_icon{
+	margin-left:5px;
+	text-decoration: none;
+	color: black;
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+.menu_name_cart{
+	margin-left: 30px;
+	color: black;
+}
+.first_poster{
+	height: 854px;
+	width: 100%;
+}
+.watch_poster{
+	 margin-top: -428px;
+    margin-left: 256px;
+	height:60px ;
+	width: 180px;
+
+	
+
+}
+.watch_poster a{
+	    
+    padding: 16px 32px;
+    margin-top: 15px;
+    line-height: initial;
+    color: #ffffff;
+    border: 1px solid rgba(255,255,255,0.6);
+    background-color: rgba(255,255,255,0.1);
+    text-shadow: 0 1px 1px rgb(0 0 0 / 40%);
+    text-decoration: none;
+}
+.all_options{
+	margin-top: 400px;
+	margin-left: 162px;
+	height: 2460px;
+	width: 1245px;
+	
+	margin-right: 162px;
+}
+.shopify_image{
+	height: 580px;
+	widows: 580px;
+}
+.shopify_name{
+	margin-top: -325px;
+	margin-left: 227px;
+	color: white;
+	font-size: 17px;
+	font-family: 'Open Sans', sans-serif;
+}
+.option_box{
+	margin: 20px;
+	float: left;
+}
+.option_box_below{
+	margin: 20px;
+	float: left;
+	margin-top: 304px;
+
+}
